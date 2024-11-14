@@ -5,7 +5,7 @@
   - [osTicket: Installation](https://github.com/rir1230/osticket-prereqs)
   - [osTicket: Configuration](https://github.com/rir1230/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com//ticket-lifecycle)
-- <b>Microsoft Azure</b>rir1230
+- <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/rir1230/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rir1230/azure-network-protocols)
 
